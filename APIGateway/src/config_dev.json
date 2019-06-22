@@ -1,0 +1,7 @@
+{
+    "ws_port":3033,
+    "http_port":8090,
+    "mysql":{},
+    "redis":{},
+    "writeLogFile":"true"
+}

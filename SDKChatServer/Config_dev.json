@@ -1,0 +1,26 @@
+{
+    "WSPort":"8899",
+    "ChildProcessNum":1,
+    "APIGatewayUrl":"http://172.27.83.47:8090/chatServer/get",
+    "my_sql": {
+        "connectionLimit": 10,
+        "host": "172.27.83.47",
+        "port": 3306,
+        "user": "root",
+        "password": "tryme",
+        "database": "game_plat",
+        "tables": {
+            "sys_user": 30,
+            "sys_user_plat": 30,
+            "sys_user_game": 30
+        }
+    },
+    "redis": {
+        "ip": "172.27.83.47",
+        "port": 6379,
+        "select": 2,
+        "flag": {
+            "auth_pass": "tryme"
+        }
+    }
+}

@@ -1,0 +1,277 @@
+[2019-03-22T17:39:17.236] [ERROR] error - Error: Unexpected server response: 200
+    at ClientRequest.req.on (D:\jt\works\ChatServer\ChatServer\node_modules\ws\lib\websocket.js:561:5)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:564:21)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+    at Socket.socketOnData (_http_client.js:453:20)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at Socket.Readable.push (_stream_readable.js:197:10)
+    at TCP.onread (net.js:588:20) []
+[2019-03-22T17:39:18.224] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:39:22.229] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:39:26.232] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:39:30.238] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:39:34.241] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:39:38.245] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:39:38.245] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-22T17:42:23.419] [ERROR] error - Error: Unexpected server response: 200
+    at ClientRequest.req.on (D:\jt\works\ChatServer\ChatServer\node_modules\ws\lib\websocket.js:561:5)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:564:21)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+    at Socket.socketOnData (_http_client.js:453:20)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at Socket.Readable.push (_stream_readable.js:197:10)
+    at TCP.onread (net.js:588:20) []
+[2019-03-22T17:42:24.407] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:42:28.411] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:42:32.417] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:42:36.432] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:42:40.443] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:42:59.233] [ERROR] error - Error: Unexpected server response: 200
+    at ClientRequest.req.on (D:\jt\works\ChatServer\ChatServer\node_modules\ws\lib\websocket.js:561:5)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:564:21)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+    at Socket.socketOnData (_http_client.js:453:20)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at Socket.Readable.push (_stream_readable.js:197:10)
+    at TCP.onread (net.js:588:20) []
+[2019-03-22T17:43:00.220] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:43:04.225] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:43:08.230] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:43:12.235] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:43:16.237] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:43:20.242] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:43:20.242] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-22T17:47:13.601] [ERROR] error - Error: Unexpected server response: 200
+    at ClientRequest.req.on (D:\jt\works\ChatServer\ChatServer\node_modules\ws\lib\websocket.js:561:5)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:564:21)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+    at Socket.socketOnData (_http_client.js:453:20)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at Socket.Readable.push (_stream_readable.js:197:10)
+    at TCP.onread (net.js:588:20) []
+[2019-03-22T17:47:14.590] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:47:18.594] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:47:22.603] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:47:26.608] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:47:30.611] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:49:31.839] [ERROR] error - Error: Unexpected server response: 200
+    at ClientRequest.req.on (D:\jt\works\ChatServer\ChatServer\node_modules\ws\lib\websocket.js:561:5)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:564:21)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+    at Socket.socketOnData (_http_client.js:453:20)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at Socket.Readable.push (_stream_readable.js:197:10)
+    at TCP.onread (net.js:588:20) []
+[2019-03-22T17:49:32.828] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:49:36.832] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:49:40.835] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:49:44.839] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:49:48.842] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:49:52.846] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:49:52.846] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-22T17:51:18.012] [ERROR] error - Error: Unexpected server response: 200
+    at ClientRequest.req.on (D:\jt\works\ChatServer\ChatServer\node_modules\ws\lib\websocket.js:561:5)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:564:21)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+    at Socket.socketOnData (_http_client.js:453:20)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at Socket.Readable.push (_stream_readable.js:197:10)
+    at TCP.onread (net.js:588:20) []
+[2019-03-22T17:51:19.004] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:51:23.009] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:51:27.013] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:51:31.016] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:51:35.020] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:51:39.024] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:51:39.024] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-22T17:53:04.826] [ERROR] error - Error: Unexpected server response: 200
+    at ClientRequest.req.on (D:\jt\works\ChatServer\ChatServer\node_modules\ws\lib\websocket.js:561:5)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:564:21)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+    at Socket.socketOnData (_http_client.js:453:20)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at Socket.Readable.push (_stream_readable.js:197:10)
+    at TCP.onread (net.js:588:20) []
+[2019-03-22T17:53:05.818] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:53:09.823] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:53:37.807] [ERROR] error - Error: Unexpected server response: 200
+    at ClientRequest.req.on (D:\jt\works\ChatServer\ChatServer\node_modules\ws\lib\websocket.js:561:5)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:564:21)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+    at Socket.socketOnData (_http_client.js:453:20)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at Socket.Readable.push (_stream_readable.js:197:10)
+    at TCP.onread (net.js:588:20) []
+[2019-03-22T17:53:38.800] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:53:42.805] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:53:46.809] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:53:50.813] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:53:54.817] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:53:58.819] [ERROR] error - ws error msg:Error: connect ECONNREFUSED 127.0.0.1:3033
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-22T17:53:58.819] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []

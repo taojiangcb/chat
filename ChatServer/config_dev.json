@@ -1,0 +1,9 @@
+{
+    "gateway_host":"ws://127.0.0.1",     
+    "gateway_port":"3033",
+    "svr_name":"test_1",
+    "writeLogFile":"true",
+    "chat_host":"",
+    "chat_port":"8091"
+    
+}

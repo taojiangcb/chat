@@ -1,0 +1,9 @@
+{
+    "gateway_host":"ws://dev-platserver.qi1game.com",     
+    "gateway_port":"3033",
+    "svr_name":"test_1",
+    "writeLogFile":"true",
+    "chat_host":"dev-platserver.qi1game.com",
+    "chat_port":"8091"
+    
+}

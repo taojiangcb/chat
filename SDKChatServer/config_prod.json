@@ -1,0 +1,26 @@
+{
+    "WSPort":"8899",
+    "ChildProcessNum":1,
+    "APIGatewayUrl":"http://172.27.8.15:8090/chatServer/get",
+    "my_sql": {
+        "connectionLimit": 10,
+        "host": "rm-bp175tl611y779i6c.mysql.rds.aliyuncs.com",
+        "port": 3306,
+        "user": "game_plat",
+        "password": "8RGaKM6CveWYJbepp3ocq29zvjHAOZ",
+        "database": "game_plat",
+        "tables": {
+            "sys_user": 30,
+            "sys_user_plat": 30,
+            "sys_user_game": 30
+        }
+    },
+    "redis": {
+        "ip": "r-bp1279a38dde2584.redis.rds.aliyuncs.com",
+        "port": 6379,
+        "select": 1,
+        "flag": {
+            "auth_pass": "vUXq55guqInHN9W2VUXgtcRXx1ZpXo"
+        }
+    }
+}

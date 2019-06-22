@@ -1,0 +1,378 @@
+[2019-03-25T11:05:08.092] [DEBUG] file - Error: connect ECONNREFUSED 127.0.0.1:8899
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-25T11:05:08.096] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T11:05:09.761] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:05:09.794] [DEBUG] file - 链接成功 []
+[2019-03-25T11:12:23.389] [DEBUG] file - Error: connect ECONNREFUSED 127.0.0.1:8899
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-25T11:12:23.391] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T11:12:24.973] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:12:24.998] [DEBUG] file - 链接成功 []
+[2019-03-25T11:14:21.957] [DEBUG] file - Error: connect ECONNREFUSED 127.0.0.1:8899
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-25T11:14:21.959] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T11:14:23.451] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:14:23.486] [DEBUG] file - 链接成功 []
+[2019-03-25T11:14:57.143] [DEBUG] file - Error: connect ECONNREFUSED 127.0.0.1:8899
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-25T11:14:57.146] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T11:14:58.565] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:14:58.581] [DEBUG] file - 链接成功 []
+[2019-03-25T11:15:13.606] [DEBUG] file - 链接断开 []
+[2019-03-25T11:16:25.441] [DEBUG] file - Error: connect ECONNREFUSED 127.0.0.1:8899
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-25T11:16:25.443] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T11:16:26.872] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:16:26.888] [DEBUG] file - 链接成功 []
+[2019-03-25T11:16:41.915] [DEBUG] file - 链接断开 []
+[2019-03-25T11:19:08.531] [DEBUG] file - Error: connect ECONNREFUSED 127.0.0.1:8899
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-25T11:19:08.533] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T11:19:09.967] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:19:09.989] [DEBUG] file - 链接成功 []
+[2019-03-25T11:19:50.480] [DEBUG] file - Error: connect ECONNREFUSED 127.0.0.1:8899
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-25T11:19:50.483] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T11:19:51.935] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:19:51.956] [DEBUG] file - 链接成功 []
+[2019-03-25T11:20:06.975] [DEBUG] file - 链接断开 []
+[2019-03-25T11:23:25.322] [DEBUG] file - Error: connect ECONNREFUSED 127.0.0.1:8899
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-25T11:23:25.325] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T11:23:26.791] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:23:26.818] [DEBUG] file - 链接成功 []
+[2019-03-25T11:23:41.842] [DEBUG] file - 链接断开 []
+[2019-03-25T11:24:23.261] [DEBUG] file - Error: connect ECONNREFUSED 127.0.0.1:8899
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-25T11:24:23.264] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T11:24:24.700] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:24:24.717] [DEBUG] file - 链接成功 []
+[2019-03-25T11:26:07.074] [DEBUG] file - Error: connect ECONNREFUSED 127.0.0.1:8899
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-25T11:26:07.077] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T11:26:08.490] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:26:08.507] [DEBUG] file - 链接成功 []
+[2019-03-25T11:26:49.369] [DEBUG] file - Error: connect ECONNREFUSED 127.0.0.1:8899
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-25T11:26:49.374] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T11:26:50.786] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:26:50.804] [DEBUG] file - 链接成功 []
+[2019-03-25T11:28:18.321] [DEBUG] file - Error: connect ECONNREFUSED 127.0.0.1:8899
+    at Object.exports._errnoException (util.js:1016:11)
+    at exports._exceptionWithHostPort (util.js:1039:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1138:14) []
+[2019-03-25T11:28:18.323] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T11:28:19.781] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:28:19.797] [DEBUG] file - 链接成功 []
+[2019-03-25T11:29:53.009] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:29:55.574] [DEBUG] file - 链接成功 []
+[2019-03-25T11:29:58.021] [DEBUG] file - 链接成功 []
+[2019-03-25T11:30:10.599] [DEBUG] file - 链接断开 []
+[2019-03-25T11:30:13.040] [DEBUG] file - 链接断开 []
+[2019-03-25T11:31:37.294] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:31:39.878] [DEBUG] file - 链接成功 []
+[2019-03-25T11:31:42.309] [DEBUG] file - 链接成功 []
+[2019-03-25T11:31:54.909] [DEBUG] file - 链接断开 []
+[2019-03-25T11:31:57.334] [DEBUG] file - 链接断开 []
+[2019-03-25T11:33:21.417] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:33:23.960] [DEBUG] file - 链接成功 []
+[2019-03-25T11:33:26.427] [DEBUG] file - 链接成功 []
+[2019-03-25T11:40:00.780] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T11:40:03.367] [DEBUG] file - 链接成功 []
+[2019-03-25T11:40:03.372] [DEBUG] file - connect to ws://127.0.0.1:8090 []
+[2019-03-25T11:40:05.791] [DEBUG] file - 链接成功 []
+[2019-03-25T11:40:05.792] [DEBUG] file - connect to ws://127.0.0.1:8090 []
+[2019-03-25T11:40:06.378] [DEBUG] file - connect to ws://127.0.0.1:8090 []
+[2019-03-25T11:40:08.794] [DEBUG] file - connect to ws://127.0.0.1:8090 []
+[2019-03-25T11:40:09.380] [DEBUG] file - connect to ws://127.0.0.1:8090 []
+[2019-03-25T11:40:11.795] [DEBUG] file - connect to ws://127.0.0.1:8090 []
+[2019-03-25T11:40:12.382] [DEBUG] file - connect to ws://127.0.0.1:8090 []
+[2019-03-25T11:40:14.797] [DEBUG] file - connect to ws://127.0.0.1:8090 []
+[2019-03-25T11:40:15.384] [DEBUG] file - connect to ws://127.0.0.1:8090 []
+[2019-03-25T11:40:17.799] [DEBUG] file - connect to ws://127.0.0.1:8090 []
+[2019-03-25T11:40:18.386] [DEBUG] file - connect to ws://127.0.0.1:8090 []
+[2019-03-25T11:40:18.389] [DEBUG] file - 链接断开 []
+[2019-03-25T11:40:20.802] [DEBUG] file - connect to ws://127.0.0.1:8090 []
+[2019-03-25T11:40:20.811] [DEBUG] file - 链接断开 []
+[2019-03-25T12:02:11.626] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T12:02:14.049] [DEBUG] file - Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T12:02:14.053] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T12:12:02.414] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T12:12:04.986] [DEBUG] file - Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T12:12:04.989] [DEBUG] file - TypeError: Cannot read property 'aborted' of null
+    at ClientRequest.req.on (D:\jt\works\ChatServer\SDKChatServer\node_modules\ws\lib\websocket.js:567:23)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at Socket.socketCloseListener (_http_client.js:376:9)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:548:12) []
+[2019-03-25T13:33:37.156] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T13:33:39.610] [DEBUG] file - 链接成功 []
+[2019-03-25T13:33:42.175] [DEBUG] file - 链接成功 []
+[2019-03-25T13:34:50.348] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T13:34:52.867] [DEBUG] file - 链接成功 []
+[2019-03-25T13:34:55.367] [DEBUG] file - 链接成功 []
+[2019-03-25T13:37:47.329] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T13:37:49.895] [DEBUG] file - 链接成功 []
+[2019-03-25T13:37:52.350] [DEBUG] file - 链接成功 []
+[2019-03-25T13:39:04.156] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T13:39:06.721] [DEBUG] file - 链接成功 []
+[2019-03-25T13:39:06.721] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:39:09.173] [DEBUG] file - 链接成功 []
+[2019-03-25T13:39:09.173] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:41:17.916] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T13:41:20.477] [DEBUG] file - 链接成功 []
+[2019-03-25T13:41:20.478] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:41:22.937] [DEBUG] file - 链接成功 []
+[2019-03-25T13:41:22.937] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:42:00.767] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T13:42:03.351] [DEBUG] file - 链接成功 []
+[2019-03-25T13:42:03.351] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:42:05.783] [DEBUG] file - 链接成功 []
+[2019-03-25T13:42:05.783] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:44:05.478] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T13:44:08.044] [DEBUG] file - 链接成功 []
+[2019-03-25T13:44:08.044] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:44:10.497] [DEBUG] file - 链接成功 []
+[2019-03-25T13:44:10.497] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:45:21.880] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T13:45:24.425] [DEBUG] file - 链接成功 []
+[2019-03-25T13:45:24.426] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:45:26.901] [DEBUG] file - 链接成功 []
+[2019-03-25T13:45:26.901] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:47:41.537] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T13:47:44.097] [DEBUG] file - 链接成功 []
+[2019-03-25T13:47:44.097] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:47:46.552] [DEBUG] file - 链接成功 []
+[2019-03-25T13:47:46.552] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:48:09.663] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T13:48:12.171] [DEBUG] file - 链接成功 []
+[2019-03-25T13:48:12.171] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:48:14.683] [DEBUG] file - 链接成功 []
+[2019-03-25T13:48:14.683] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:49:18.915] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T13:49:21.475] [DEBUG] file - 链接成功 []
+[2019-03-25T13:49:21.476] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T13:49:23.930] [DEBUG] file - 链接成功 []
+[2019-03-25T13:49:23.930] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:03:05.700] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T14:03:08.097] [DEBUG] file - 链接成功 []
+[2019-03-25T14:03:08.098] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:03:10.723] [DEBUG] file - 链接成功 []
+[2019-03-25T14:03:10.723] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8090,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:03:47.228] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T14:03:49.679] [DEBUG] file - 链接成功 []
+[2019-03-25T14:03:49.679] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:03:52.252] [DEBUG] file - 链接成功 []
+[2019-03-25T14:03:52.253] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:04:42.340] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T14:04:44.794] [DEBUG] file - 链接成功 []
+[2019-03-25T14:04:44.794] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:04:47.359] [DEBUG] file - 链接成功 []
+[2019-03-25T14:04:47.359] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:29:33.232] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T14:29:35.654] [DEBUG] file - 链接成功 []
+[2019-03-25T14:29:35.655] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:29:38.250] [DEBUG] file - 链接成功 []
+[2019-03-25T14:29:38.250] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:30:37.105] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T14:30:42.122] [DEBUG] file - 链接成功 []
+[2019-03-25T14:30:42.123] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:30:47.706] [DEBUG] file - 链接成功 []
+[2019-03-25T14:30:47.706] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:31:33.829] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T14:31:38.848] [DEBUG] file - connect a ws []
+[2019-03-25T14:31:38.848] [DEBUG] file - create a websocket..... []
+[2019-03-25T14:31:38.849] [DEBUG] file - 链接成功 []
+[2019-03-25T14:31:38.850] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:31:41.347] [DEBUG] file - connect a ws []
+[2019-03-25T14:31:41.347] [DEBUG] file - create a websocket..... []
+[2019-03-25T14:31:41.351] [DEBUG] file - 链接成功 []
+[2019-03-25T14:31:41.351] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:41:19.488] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T14:41:19.503] [DEBUG] file - connect a ws []
+[2019-03-25T14:41:19.503] [DEBUG] file - create a websocket..... []
+[2019-03-25T14:41:19.505] [DEBUG] file - 链接成功 []
+[2019-03-25T14:41:19.507] [DEBUG] file - connect to ws://127.0.0.1:8091 []
+[2019-03-25T14:41:19.511] [DEBUG] file - connect succeed ws://127.0.0.1:8091 []
+[2019-03-25T14:41:24.503] [DEBUG] file - connect a ws []
+[2019-03-25T14:41:24.503] [DEBUG] file - create a websocket..... []
+[2019-03-25T14:41:24.503] [DEBUG] file - 链接成功 []
+[2019-03-25T14:41:24.503] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:41:27.520] [DEBUG] file - connect a ws []
+[2019-03-25T14:41:27.520] [DEBUG] file - create a websocket..... []
+[2019-03-25T14:41:27.523] [DEBUG] file - 链接成功 []
+[2019-03-25T14:41:27.523] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:41:29.295] [DEBUG] file - receiver ============{"type":102,"in_char_svr":"test_12306","in_product":"test_","id":"12306"} []
+[2019-03-25T14:41:31.886] [DEBUG] file - socket receive ping []
+[2019-03-25T14:41:41.888] [DEBUG] file - socket receive ping []
+[2019-03-25T14:41:51.892] [DEBUG] file - socket receive ping []
+[2019-03-25T14:42:35.257] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T14:42:35.274] [DEBUG] file - connect a ws []
+[2019-03-25T14:42:35.274] [DEBUG] file - create a websocket..... []
+[2019-03-25T14:42:35.276] [DEBUG] file - 链接成功 []
+[2019-03-25T14:42:35.279] [DEBUG] file - connect to ws://127.0.0.1:8091 []
+[2019-03-25T14:42:35.282] [DEBUG] file - connect succeed ws://127.0.0.1:8091 []
+[2019-03-25T14:42:37.778] [DEBUG] file - 链接成功 []
+[2019-03-25T14:42:37.778] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:42:37.776] [DEBUG] file - connect a ws []
+[2019-03-25T14:42:37.776] [DEBUG] file - create a websocket..... []
+[2019-03-25T14:42:38.539] [DEBUG] file - receiver ============{"type":102,"in_char_svr":"test_12306","in_product":"test_","id":"12306"} []
+[2019-03-25T14:42:40.275] [DEBUG] file - connect a ws []
+[2019-03-25T14:42:40.275] [DEBUG] file - create a websocket..... []
+[2019-03-25T14:42:40.276] [DEBUG] file - 链接成功 []
+[2019-03-25T14:42:40.276] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:42:47.801] [DEBUG] file - socket receive ping []
+[2019-03-25T14:42:57.803] [DEBUG] file - socket receive ping []
+[2019-03-25T14:43:12.729] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T14:43:15.168] [DEBUG] file - 链接成功 []
+[2019-03-25T14:43:15.169] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:43:15.166] [DEBUG] file - connect a ws []
+[2019-03-25T14:43:15.166] [DEBUG] file - create a websocket..... []
+[2019-03-25T14:43:17.749] [DEBUG] file - connect a ws []
+[2019-03-25T14:43:17.749] [DEBUG] file - create a websocket..... []
+[2019-03-25T14:43:17.750] [DEBUG] file - 链接成功 []
+[2019-03-25T14:43:17.750] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:44:03.794] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-25T14:44:06.344] [DEBUG] file - 链接成功 []
+[2019-03-25T14:44:06.345] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:44:06.344] [DEBUG] file - connect a ws []
+[2019-03-25T14:44:06.344] [DEBUG] file - create a websocket..... []
+[2019-03-25T14:44:08.809] [DEBUG] file - connect a ws []
+[2019-03-25T14:44:08.809] [DEBUG] file - create a websocket..... []
+[2019-03-25T14:44:08.810] [DEBUG] file - 链接成功 []
+[2019-03-25T14:44:08.810] [DEBUG] file - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-26T11:49:40.651] [DEBUG] file - start ConverSvr port:8899 []
+[2019-03-26T12:05:30.391] [DEBUG] file - connect a ws []
+[2019-03-26T12:05:30.391] [DEBUG] file - create a websocket..... []
+[2019-03-26T12:05:30.511] [DEBUG] file - 工作进程 15560 已退出 []
+[2019-03-26T12:05:30.519] [DEBUG] file - master exit...... []
+[2019-03-27T10:52:48.412] [DEBUG] file - start ConverSvr port:8899 []

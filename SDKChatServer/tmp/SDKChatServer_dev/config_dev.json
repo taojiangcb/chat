@@ -1,0 +1,5 @@
+{
+    "WSPort":"8899",
+    "ChildProcessNum":1,
+    "APIGatewayUrl":"http://172.27.8.15:8090/chatServer/get"
+}

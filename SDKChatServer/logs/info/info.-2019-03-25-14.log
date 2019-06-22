@@ -1,0 +1,4 @@
+[2019-03-25T14:41:19.507] [INFO] info - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:41:19.511] [INFO] info - 转发链接聊天服务{"type":101,"msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"in_char_svr":"test_12306","id":"12306","in_product":"test_"} []
+[2019-03-25T14:42:35.280] [INFO] info - {"in_char_svr":"test_12306","in_product":"test_","msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"id":"","type":101} []
+[2019-03-25T14:42:35.283] [INFO] info - 转发链接聊天服务{"type":101,"msg_body":{"product":"test_","userId":"12306","token":"","svr":{"ip":"127.0.0.1","port":8091,"svr_name":"test_12306"}},"in_char_svr":"test_12306","id":"12306","in_product":"test_"} []

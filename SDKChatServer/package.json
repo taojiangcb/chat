@@ -1,0 +1,28 @@
+{
+  "name": "SDKChatServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha -r ts-node/register ./test/*test.ts",
+    "dev": "node ./bin/dev.js"
+  },
+  "author": "taojiang",
+  "license": "ISC",
+  "dependencies": {
+    "@types/koa": "^2.0.48",
+    "@types/node": "^11.11.3",
+    "@types/request": "^2.48.1",
+    "@types/ws": "^6.0.1",
+    "chatcommon": "^1.0.0",
+    "install": "^0.12.2",
+    "koa": "2.3.0",
+    "request": "^2.88.0",
+    "ws": "^6.2.0"
+  },
+  "devDependencies": {
+    "co-redis": "^2.1.1",
+    "redis": "^2.8.0",
+    "require-dir": "^1.2.0"
+  }
+}

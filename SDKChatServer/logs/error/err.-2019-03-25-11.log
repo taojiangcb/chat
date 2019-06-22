@@ -1,0 +1,674 @@
+[2019-03-25T11:14:58.587] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:15:01.589] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:15:04.591] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:15:07.599] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:15:10.604] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:15:13.605] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:15:13.605] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-25T11:16:26.893] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:16:29.896] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:16:32.899] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:16:35.900] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:16:38.901] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:16:41.906] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:16:41.909] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-25T11:19:09.994] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:19:12.997] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:19:51.961] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:19:54.962] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:19:57.965] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:20:00.971] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:20:03.972] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:20:06.973] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:20:06.973] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-25T11:23:26.823] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:23:29.826] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:23:32.828] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:23:35.830] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:23:38.833] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:23:41.837] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:23:41.838] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-25T11:24:24.724] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:24:27.734] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:26:08.512] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:26:11.514] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:26:14.523] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:26:50.811] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:26:53.814] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:26:56.818] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:26:59.826] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:28:19.802] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:28:22.808] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:28:25.812] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:28:28.816] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:29:55.585] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:29:58.024] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:29:58.586] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:30:01.026] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:30:01.590] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:30:04.031] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:30:04.592] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:30:07.032] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:30:07.595] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:30:10.036] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:30:10.596] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:30:10.596] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-25T11:30:13.039] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:30:13.039] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-25T11:31:39.888] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:31:42.312] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:31:42.889] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:31:45.314] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:31:45.892] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:31:48.320] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:31:48.893] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:31:51.323] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:31:51.899] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:31:54.329] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:31:54.904] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:31:54.906] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-25T11:31:57.333] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:31:57.333] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-25T11:33:23.970] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:33:26.429] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:33:26.973] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:33:29.431] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:33:29.978] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:33:32.434] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:33:32.979] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:33:35.436] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:03.376] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:05.793] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:06.379] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:08.795] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:09.381] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:11.796] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:12.383] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:14.798] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:15.385] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:17.800] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:18.387] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:18.388] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []
+[2019-03-25T11:40:20.807] [ERROR] error - ws error msg:Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9) []
+[2019-03-25T11:40:20.807] [ERROR] error - 网关服务器链接断开！重试了5次，还是不行。 []

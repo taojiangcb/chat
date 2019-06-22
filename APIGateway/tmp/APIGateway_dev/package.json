@@ -1,0 +1,55 @@
+{
+  "name": "apigateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@types/koa-bodyparser": "^4.2.2",
+    "@types/koa-compose": "^3.2.2",
+    "@types/koa-cors": "0.0.0",
+    "@types/koa-router": "^7.0.30",
+    "@types/log4js": "^2.3.5",
+    "@types/node": "^11.11.3",
+    "@types/redis": "^2.8.11",
+    "@types/ws": "^6.0.1",
+    "chatcommon": "^1.0.0",
+    "compressing": "^1.4.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-cors": "0.0.16",
+    "koa-router": "^7.4.0",
+    "koa-xml-body": "^2.1.0",
+    "koa2-cors": "^2.0.6",
+    "log4js": "^4.0.2",
+    "puremvc": "^1.0.4",
+    "redis": "^2.8.0",
+    "socket-io": "^1.0.0",
+    "typescript": "^3.3.4000",
+    "ws": "^6.1.4"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/koa": "^2.0.46",
+    "@types/mocha": "^5.2.6",
+    "async-limiter": "^1.0.0",
+    "chai": "^4.2.0",
+    "koa": "^2.3.0",
+    "mocha": "^6.0.2",
+    "should": "^13.2.3",
+    "ts-node": "^8.0.3"
+  },
+  "scripts": {
+    "test": "mocha -r ts-node/register ./test/*test.ts",
+    "build_dev": "tsc -a",
+    "dev":"node ./bin/dev.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taojiangcb/APIGateway.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taojiangcb/APIGateway/issues"
+  },
+  "homepage": "https://github.com/taojiangcb/APIGateway#readme"
+}

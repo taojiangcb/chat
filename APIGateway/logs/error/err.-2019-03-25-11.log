@@ -1,0 +1,7 @@
+[2019-03-25T11:06:38.734] [ERROR] error - TypeError: Cannot read property 'bind' of undefined
+    at Function.app.reopen (D:\jt\works\ChatServer\ChatCommon\node_modules\log4js\lib\appenders\file.js:59:47)
+    at process.app.sighupHandler (D:\jt\works\ChatServer\ChatCommon\node_modules\log4js\lib\appenders\file.js:64:9)
+    at emitNone (events.js:105:13)
+    at process.emit (events.js:207:7)
+    at process.emit (D:\jt\works\ChatServer\APIGateway\node_modules\source-map-support\source-map-support.js:461:21)
+    at Signal.wrap.onsignal (internal/process.js:207:44) []

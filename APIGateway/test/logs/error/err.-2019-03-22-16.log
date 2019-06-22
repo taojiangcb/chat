@@ -1,0 +1,44 @@
+[2019-03-22T16:25:51.675] [ERROR] error - 服务器不存在无效数据{"type":103,"msg_body":"你好","in_char_svr":"test"} []
+[2019-03-22T16:27:06.479] [ERROR] error - 服务器不存在无效数据{"type":103,"msg_body":"你好","in_char_svr":"test"} []
+[2019-03-22T16:32:26.121] [ERROR] error - 服务器不存在无效数据{"type":103,"msg_body":"你好","in_char_svr":"test"} []
+[2019-03-22T16:53:17.643] [ERROR] error - 服务器不存在无效数据{"type":103,"msg_body":"你好","in_char_svr":"test"} []
+[2019-03-22T16:53:46.732] [ERROR] error - Error: Unexpected server response: 200
+    at ClientRequest.req.on (D:\jt\works\ChatServer\APIGateway\node_modules\ws\lib\websocket.js:561:5)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:564:21)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+    at Socket.socketOnData (_http_client.js:453:20)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at Socket.Readable.push (_stream_readable.js:197:10)
+    at TCP.onread (net.js:588:20) []
+[2019-03-22T16:59:21.670] [ERROR] error - Error: Unexpected server response: 200
+    at ClientRequest.req.on (D:\jt\works\ChatServer\APIGateway\node_modules\ws\lib\websocket.js:561:5)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:564:21)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+    at Socket.socketOnData (_http_client.js:453:20)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at Socket.Readable.push (_stream_readable.js:197:10)
+    at TCP.onread (net.js:588:20) []
+[2019-03-22T16:59:21.672] [ERROR] error - Error: Unexpected server response: 200
+    at ClientRequest.req.on (D:\jt\works\ChatServer\APIGateway\node_modules\ws\lib\websocket.js:561:5)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:564:21)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+    at Socket.socketOnData (_http_client.js:453:20)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at Socket.Readable.push (_stream_readable.js:197:10)
+    at TCP.onread (net.js:588:20) []
+[2019-03-22T16:59:21.673] [ERROR] error - 服务器不存在无效数据{"type":103,"msg_body":"你好","in_char_svr":"test"} []

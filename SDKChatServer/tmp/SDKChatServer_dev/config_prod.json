@@ -1,0 +1,7 @@
+{
+    "WSPort":"8899",
+    "ChildProcessNum":1,
+    "APIGatewayUrl":"http://dev-platserver.qi1game.com:8090/chatServer/get"
+
+
+}
