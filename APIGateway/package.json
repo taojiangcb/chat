@@ -19,7 +19,7 @@
     "koa-router": "^7.4.0",
     "koa-xml-body": "^2.1.0",
     "koa2-cors": "^2.0.6",
-    "log4js": "^4.0.2",
+    "log4js": "^6.4.0",
     "puremvc": "^1.0.4",
     "redis": "^2.8.0",
     "socket-io": "^1.0.0",
